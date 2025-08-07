@@ -1,8 +1,5 @@
-# AWS-Cloud-Practitioner
+# ☁️ AWS-Cloud-Practitioner
 A collection of beginner-friendly AWS projects covering core services like S3, CloudFront, IAM, Lambda, and more aligned with AWS Cloud Practitioner knowledge.
-
-
-# ☁️ AWS Cloud Practitioner – Project Portfolio
 
 This repository contains beginner-friendly AWS projects designed to reinforce concepts covered in the **AWS Certified Cloud Practitioner** exam. These hands-on projects focus on foundational AWS services like S3, CloudFront, IAM, Lambda, and more.
 
