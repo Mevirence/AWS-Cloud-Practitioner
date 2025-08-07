@@ -12,7 +12,7 @@ Each project is organized in its own folder with its own README, source code, an
 | Project                                                                 | Description                                                         | Status          |
 |-------------------------------------------------------------------------|---------------------------------------------------------------------|-----------------|
 | [Static Website Hosting (S3 + CloudFront)](./static-site-s3-cloudfront) | Host a static website using S3 and distribute it via CloudFront CDN | ✅ Completed   |
-|                                                                         |                                                                     | 🔄 In Progress |
+| [Simple Server with EC2 (EC2 + Linux)](./ec2-simple-web-server)         |                                                                     | ✅ Completed   |
 |                                                                         |                                                                     | 🔜 Planned     |
 
 > 🔧 More projects coming soon!
