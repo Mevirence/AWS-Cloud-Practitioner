@@ -9,11 +9,11 @@ Each project is organized in its own folder with its own README, source code, an
 
 ## 📁 Projects Included
 
-| Project                                                                 | Description                                                         | Status          |
-|-------------------------------------------------------------------------|---------------------------------------------------------------------|-----------------|
-| [Static Website Hosting (S3 + CloudFront)](./static-site-s3-cloudfront) | Host a static website using S3 and distribute it via CloudFront CDN | ✅ Completed   |
-| [Simple Server with EC2 (EC2 + Linux)](./ec2-simple-web-server)         | Use EC2 and Linux to serve a static HTML page via Apache.           | ✅ Completed   |
-|                                                                         |                                                                     | 🔜 Planned     |
+| Project                                                                                 | Description                                                         | Status          |
+|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------|-----------------|
+| [Static Website Hosting (S3 + CloudFront)](./static-site-s3-cloudfront)                 | Host a static website using S3 and distribute it via CloudFront CDN | ✅ Completed   |
+| [Simple Server with EC2 (EC2)](./ec2-simple-web-server)                                 | Use EC2 and Linux to serve a static HTML page via Apache.           | ✅ Completed   |
+| [Translate Text (API AWS Translate + Lambda + API Gateway)](./translate-text)           |                                                                     | ✅ Completed   |
 
 > 🔧 More projects coming soon!
 
