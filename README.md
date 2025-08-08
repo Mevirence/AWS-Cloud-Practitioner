@@ -13,7 +13,8 @@ Each project is organized in its own folder with its own README, source code, an
 |-----------------------------------------------------------------------------------------|---------------------------------------------------------------------|-----------------|
 | [Static Website Hosting (S3 + CloudFront)](./static-site-s3-cloudfront)                 | Host a static website using S3 and distribute it via CloudFront CDN | ✅ Completed   |
 | [Simple Server with EC2 (EC2)](./ec2-simple-web-server)                                 | Use EC2 and Linux to serve a static HTML page via Apache.           | ✅ Completed   |
-| [Translate Text (API AWS Translate + Lambda + API Gateway)](./translate-text)           |                                                                     | ✅ Completed   |
+| [Translate Text (API AWS Translate + Lambda + API Gateway)](./translate-text)           | A serverless API built with AWS Lambda, API Gateway, and Amazon Translate that translates text from one language to another.
+ | ✅ Completed   |
 
 > 🔧 More projects coming soon!
 
