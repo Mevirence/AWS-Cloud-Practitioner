@@ -31,7 +31,7 @@ Built with:
 
 ### 3 — Test with `curl`
 ```bash
-curl -X POST "https://h5j8t2ipp4.execute-api.ap-southeast-1.amazonaws.com/translate" \
+curl -X POST "https://<api-id>.execute-api.<region>.amazonaws.com/translate" \
   -H "Content-Type: application/json" \
-  -d '{"text":"Nice to meet you","target":"es"}'
+  -d '{"text":"Good morning","source":"en","target":"es"}'
 
